@@ -1,0 +1,15 @@
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Luckiest Guy';
+}
+canvas {
+  display: block;
+  cursor: none;
+}
+@font-face{
+	font-family: 'TheMinion';
+	src: url('../assets/font/theminion.otf');
+}
