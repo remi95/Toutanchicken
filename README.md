@@ -20,9 +20,9 @@ Vous aurez besoin d'avoir [nodeJS](https://nodejs.org/en/download/) pour faire t
 Dans votre invite de commande, entrez les commandes suivantes :
 
 `git clone https://github.com/remi95/Toutanchicken.git`  
-`cd Toutanchicken`
-`npm install`
-`npm start`
+`cd Toutanchicken`  
+`npm install`  
+`npm start`  
 
 Vous obtiendrez alors une adresse IP qui n'est autre que votre _localhost_ suivi d'un port (en général :9966).  
 Il vous suffit alors de taper `localhost:9966` dans la barre de recherche de votre navigateur favoris.
